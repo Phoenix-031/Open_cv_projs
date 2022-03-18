@@ -1,4 +1,3 @@
-import tkinter
 import cv2
 import mediapipe as mp                       # importing libraries
 import numpy as np
